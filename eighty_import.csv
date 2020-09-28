@@ -1,22 +1,7 @@
-origin,destination,total_value
-Singapore,Thailand,4017000000
-Japan,Mexico,3918000000
-China,Thailand,3831000000
-Malaysia,Thailand,3482000000
-China,United Arab Emirates,3357000000
-China,Japan,3237000000
-Mexico,USA,2365000000
-Japan,United Arab Emirates,2238000000
-Spain,Germany,2044000000
-Germany,Mexico,1804000000
-South Korea,United Arab Emirates,1713000000
-USA,Germany,1620000000
-USA,Thailand,1568000000
-Germany,China,1328000000
-South Korea,Mexico,1291000000
-China,Singapore,1267000000
-Mexico,Japan,1143000000
-USA,India,1133000000
-France,Poland,1030000000
-Spain,Mexico,957000000
-Australia,Japan,920000000
+destination,total_value
+Thailand,13745000000
+Mexico,8894000000
+United Arab Emirates,7848000000
+Japan,5828000000
+Germany,5109000000
+USA,3758000000

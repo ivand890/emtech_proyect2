@@ -1,41 +1,9 @@
-origin,destination,total_value
-China,Mexico,12250000000
-Canada,Mexico,8450000000
-South Korea,Vietnam,6877007000
-France,Belgium,5538069000
-France,United Kingdom,5427000000
-China,South Korea,4790000000
-USA,Mexico,4710000000
-South Korea,Japan,4594000000
-Germany,Italy,4541000000
-China,Germany,4090000000
-China,USA,3797000000
-Russia,Belorussia,3529000000
-France,USA,3402000000
-Japan,Brazil,3368155000
-Netherlands,Belgium,3238142000
-USA,Argentina,3159000000
-Germany,France,2902214000
-China,Japan,2654000000
-Japan,China,2550000000
-USA,Canada,2412000000
-USA,Brazil,2384000000
-USA,Belgium,2371000000
-Russia,China,2310000000
-Germany,China,2167875000
-Russia,Germany,2042000000
-Japan,USA,1965040000
-Russia,Netherlands,1959000000
-France,Germany,1940035000
-Japan,Mexico,1911000000
-China,Spain,1862000000
-South Korea,China,1704000000
-Belgium,United Kingdom,1632000000
-USA,Singapore,1599000000
-France,Spain,1455058000
-Russia,Turkey,1446000000
-Italy,Germany,1415088000
-United Kingdom,Spain,1378025000
-China,Argentina,1236000000
-South Korea,USA,1228000000
-Japan,South Korea,1226000000
+origin,total_value
+China,32977046000
+France,18614332000
+USA,18355306000
+South Korea,14621146000
+Russia,13223000000
+Japan,11948976000
+Germany,11343233000
+Canada,10684000000
